@@ -1,11 +1,16 @@
 _repo: The-magic-Christian_69110
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69110-h/images/cover.jpg
 creator:
   author:
     agent_name: Southern, Terry
     gutenberg_agent_id: '55110'
     url: http://www.gutenberg.org/2009/agents/55110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69110#The-magic-Christian
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69110'
